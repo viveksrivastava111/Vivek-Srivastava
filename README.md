@@ -1,6 +1,9 @@
 👋 Hi, I’m Vivek Srivastava
+
 💡 Passionate about solving real-world problems with code, data, and logic.
+
 🎓 Computer Science enthusiast with a strong foundation in algorithms, Artificial Intelligence and machine learning.
+
 🛠️ I love building practical tools—from finance calculators to intelligent music prediction apps.
 
 🚀 My Interests:
