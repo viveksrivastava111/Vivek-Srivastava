@@ -9,17 +9,13 @@
 🚀 My Interests:
 
 🧠 AI & Machine Learning
-
 🔍 Problem Solving and DSA
-
 🌐 Web Apps with Python & Streamlit
 
 🧩 Notable Projects:
 
 🎵 Music Popularity Prediction App – ML-powered system using Spotify data to predict song popularity.
-
 💰 Personal Finance Tip Generator – Smart budget planner that gives personalized financial advice.
-
 📊 Water Quality Dashboard – Visual tool for analyzing organic/inorganic waste levels (COD, BOD).
 
 🧰 Tools & Tech I Use:
@@ -29,5 +25,4 @@ Python | Java | SQL | PL/SQL | Streamlit | VS Code | Git | NumPy | Pandas | Matp
 📈 Currently:
 
 Learning advanced concepts in Operating Systems, DBMS, and TOC.
-
 Practicing for coding contests and building intelligent, user-friendly apps.
